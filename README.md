@@ -1,43 +1,26 @@
 # AI-Case-Study
 Lesson 4_Challenge
 
-#Overview and Origin
- Name of Company? 
-
- When was the Company incorporated?
-
- Who are the founders of the company?
-
- How did the idea of the Company or Project come about?
-
- How is the company funded? How much funding have they received?
-
- Business Activities
-
- What specific problem is the Compaqny or project trying to solve?
-
- Who is the customers intended customer?
-# TITLE
-
 ## Overview and Origin
 
-* Name of company
+* Name of company? LeewayHertz
 
-* When was the company incorporated?
+* When was the company incorporated? 2007
 
-* Who are the founders of the company?
+* Who are the founders of the company? Akash Taylar
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? Corporate Funded;2515 investors How much funding have they received? 18.6B
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* What specific problem is the company or project trying to solve? Decrease defects in Manufacturing Labeling
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Who is the company's intended customer? Siemens Is there any information about the market size of this set of customers? 1.3% of the market is Seimens holdings.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* an
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
