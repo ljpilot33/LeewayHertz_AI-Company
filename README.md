@@ -11,7 +11,9 @@ Lesson 4_Challenge
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? Corporate Funded;2515 investors How much funding have they received? 18.6B
+* How is the company funded? Corporate Funded
+  
+* How much funding have they received? 18.6B;2515 investors
 
 ## Business Activities
 
@@ -47,5 +49,7 @@ Lesson 4_Challenge
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
+*   AI is making possible much more precise manufacturing process design, as well as problem diagnosis and resolution when defects crop       up in the fabrication process, by using a digital twin. A digital twin is an exact virtual replica of the physical part, the machine      tool, or the part being made.
+*     https://www.google.com/search?          q=What+are+the+emerging+technologies+iof+AI+in+Manufacturing%3F&oq=What+are+the+emerging+technologies+iof+AI+in+Manufacturing%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTE3Mzg0ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
 
 * Why are these technologies appropriate for your solution?
