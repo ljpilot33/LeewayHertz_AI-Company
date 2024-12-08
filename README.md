@@ -3,14 +3,17 @@ Lesson 4_Challenge
 
 ## Overview and Origin
 
-* Name of company?  LeewayHertz, LLC 
+* Name of company?
+
+  LeewayHertz, LLC 
 
 * When was the company incorporated?
-   2007
+
+  2007
 
 * Who are the founders of the company?
 
-![image](https://github.com/user-attachments/assets/b49d16b3-26aa-49d2-9fd2-a027758fa9fe) Akash Taylar Chief Executive Officer
+![image](https://github.com/user-attachments/assets/b49d16b3-26aa-49d2-9fd2-a027758fa9fe) Akash Taylar -- Chief Executive Officer
 
 Akash Takyar is the founder and CEO of LeewayHertz. With a proven track record of conceptualizing and architecting
 100+ user-centric and scalable solutions for startups and enterprises, he brings a deep understanding of both technical and user experience aspects.
@@ -21,19 +24,29 @@ Akash’s ability to build enterprise-grade technology solutions has garnered th
 
 Issues stemming from inefficient manual processes, human errors, and a lack of real time data.
 
-The manufacturing industry has long faced various challenges, including process inefficiencies, production errors, and costly machine maintenance.
+The manufacturing industry has long faced various challenges, including process inefficiencies, production errors, 
+and costly machine maintenance.
 
-These issues stem from inefficiencies in manual processes, human errors, and a lack of real-time insights, resulting in escalated expenses, compromised quality, and missed opportunities. 
+These issues stem from inefficiencies in manual processes, human errors, and a lack of real-time insights, resulting 
+in escalated expenses, compromised quality, and missed opportunities. 
 
-One of the primary obstacles manufacturing plant faces is accurately detecting faults in the production process. Traditional methods often rely on simplistic
+One of the primary obstacles manufacturing plant faces is accurately detecting faults in the production process. 
+Traditional methods often rely on simplistic procedures that fail to identify and resolve production issues 
+effectively. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
 
-* How is the company funded? Corporate Funded
+* How is the company funded?
+
+  Corporate Funded
   
-* How much funding have they received? 18.6B reveived by 2515 investors since 2007
+* How much funding have they received?
+
+  Leeway has received 18.6B by 2515 investors since 2007; recently acquired by the Hackett Group, LLC
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve? Decrease defects in Manufacturing Labeling
+* What specific problem is the company or project trying to solve? 
+
+   The specific problem within a industry such as Manufacturing are the manual human tasks that result in errors in data collection. AI      and ML focuses on issues such as
 
 * Who is the company's intended customer? Siemens Is there any information about the market size of this set of customers? 1.3% of the market is Seimens holdings.
 
