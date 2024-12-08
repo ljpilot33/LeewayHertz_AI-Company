@@ -12,14 +12,24 @@ Lesson 4_Challenge
 
 ![image](https://github.com/user-attachments/assets/b49d16b3-26aa-49d2-9fd2-a027758fa9fe) Akash Taylar Chief Executive Officer
 
-Akash Takyar is the founder and CEO of LeewayHertz. With a proven track record of conceptualizing and architecting 100+ user-centric and scalable solutions for startups and enterprises, he brings a deep understanding of both technical and user experience aspects.
+Akash Takyar is the founder and CEO of LeewayHertz. With a proven track record of conceptualizing and architecting
+100+ user-centric and scalable solutions for startups and enterprises, he brings a deep understanding of both technical and user experience aspects.
 
+Akash’s ability to build enterprise-grade technology solutions has garnered the trust of over 30 Fortune 500 companies, including Siemens, 3M, P&G, and Hershey’s. Akash is an early adopter of new technology, a passionate technology enthusiast, and an investor in AI and IoT startups. https://www.leewayhertz.com/about-us/
 
 * How did the idea for the company (or project) come about?
 
+Issues stemming from inefficient manual processes, human errors, and a lack of real time data.
+
+The manufacturing industry has long faced various challenges, including process inefficiencies, production errors, and costly machine maintenance.
+
+These issues stem from inefficiencies in manual processes, human errors, and a lack of real-time insights, resulting in escalated expenses, compromised quality, and missed opportunities. 
+
+One of the primary obstacles manufacturing plant faces is accurately detecting faults in the production process. Traditional methods often rely on simplistic
+
 * How is the company funded? Corporate Funded
   
-* How much funding have they received? 18.6B;2515 investors
+* How much funding have they received? 18.6B reveived by 2515 investors since 2007
 
 ## Business Activities
 
