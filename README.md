@@ -3,11 +3,17 @@ Lesson 4_Challenge
 
 ## Overview and Origin
 
-* Name of company? LeewayHertz
+* Name of company?  LeewayHertz, LLC 
 
-* When was the company incorporated? 2007
+* When was the company incorporated?
+   2007
 
-* Who are the founders of the company? Akash Taylar
+* Who are the founders of the company?
+
+![image](https://github.com/user-attachments/assets/b49d16b3-26aa-49d2-9fd2-a027758fa9fe) Akash Taylar Chief Executive Officer
+
+Akash Takyar is the founder and CEO of LeewayHertz. With a proven track record of conceptualizing and architecting 100+ user-centric and scalable solutions for startups and enterprises, he brings a deep understanding of both technical and user experience aspects.
+
 
 * How did the idea for the company (or project) come about?
 
