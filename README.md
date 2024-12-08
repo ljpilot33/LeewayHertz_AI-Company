@@ -36,7 +36,7 @@ effectively. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
 
 * How is the company funded?
 
-  Corporate Funded
+  Corporate and Investor Funded
   
 * How much funding have they received?
 
@@ -48,12 +48,34 @@ effectively. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
 
    The specific problem within a industry such as Manufacturing are the manual human tasks that result in errors in data collection. AI      and ML focuses on issues such as
 
-* Who is the company's intended customer? Siemens Is there any information about the market size of this set of customers? 1.3% of the market is Seimens holdings.
+* Who is the company's intended customer?
+  Large Manufacturing Companies
+   * U.S. Army
+   * ESPN
+   * Siemens
+   * Hershey
+   * 3M
 
+* Is there any information about the market size of this set of customers? 1.3% of the market is Seimens holdings.
+
+As per Precedence Research, the global market for AI in manufacturing reached a value of USD 3.8 billion in 2022.
+It is projected to attain approximately USD 68.36 billion by 2032, experiencing a remarkable compound annual 
+growth rate (CAGR) of 33.5% from 2023 to 2032. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
+  
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-* an
+
+  *	ZBrain AI Development Platform
+  *	ZBrain AI agents are designed to automate specific tasks within enterprise processes using GenAI. By deploying        these agents, organizations can reduce manual workload and enhance operational efficiency across
+    departments, leading to streamlined workflows and improved productivity. https://zbrain.ai/agents/#insightpopup
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+### AI platform optimizes manufacturing processes
+LeewayHertz’s generative AI platform, ZBrain, stands as a pivotal solution for manufacturing enterprises aiming to confront challenges within their workflows, enhancing efficiency and fostering business growth. ZBrain enables enterprises to develop tailored LLM-based applications, optimizing workflows, improving customer interactions, and advancing manufacturing operations. The platform uses clients’ data, whether in the form of text, images, or documents, to train advanced LLMs like GPT-4, Vicuna, Llama 2, or GPT-NeoX for developing contextually aware applications capable of performing diverse tasks. These applications contribute to informed decision-making, provide in-depth insights, and enhance productivity, all while maintaining stringent data privacy standards. https://www.leewayhertz.com/manufacturing-software-development/
+
+
+
 
 ## Landscape
 
