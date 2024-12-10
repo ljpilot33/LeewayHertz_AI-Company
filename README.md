@@ -71,10 +71,15 @@ Lesson 4_Challenge
 * Which technologies are they currently using, and how are they implementing them? 
 
 ### AI platform optimizes manufacturing processes
-LeewayHertz’s generative AI platform, ZBrain, stands as a pivotal solution for manufacturing enterprises aiming to confront challenges within their workflows, enhancing efficiency and fostering business growth. ZBrain enables enterprises to develop tailored LLM-based applications, optimizing workflows, improving customer interactions, and advancing manufacturing operations. The platform uses clients’ data, whether in the form of text, images, or documents, to train advanced LLMs like GPT-4, Vicuna, Llama 2, or GPT-NeoX for developing contextually aware applications capable of performing diverse tasks. These applications contribute to informed decision-making, provide in-depth insights, and enhance productivity, all while maintaining stringent data privacy standards. https://www.leewayhertz.com/manufacturing-software-development/
-
-
-
+      LeewayHertz’s generative AI platform, ZBrain, stands as a pivotal solution for manufacturing enterprises 
+      aiming to confront challenges within their workflows, enhancing efficiency and fostering business growth.
+      ZBrain enables enterprises to develop tailored LLM-based applications, optimizing workflows, 
+      improving customer interactions, and advancing manufacturing operations. The platform uses clients’ data,
+      whether in the form of text, images, or documents, to train advanced Msnlike GPT-4, Vicuna, Llama 2, 
+      or GPT-NeoX for developing contextually aware applications capable of performing diverse tasks. 
+      These applications contribute to informed decision-making, provide in-depth insights, 
+      and enhance productivity, all while maintaining stringent data privacy standards. 
+      https://www.leewayhertz.com/manufacturing-software-development/
 
 ## Landscape
 
