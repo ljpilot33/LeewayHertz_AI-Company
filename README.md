@@ -72,15 +72,16 @@ Lesson 4_Challenge
 * Which technologies are they currently using, and how are they implementing them? 
 
     ### AI platform optimizes manufacturing processes
-      LeewayHertz’s generative AI platform, ZBrain, stands as a pivotal solution for manufacturing enterprises 
-      aiming to confront challenges within their workflows, enhancing efficiency and fostering business growth.
-      ZBrain enables enterprises to develop tailored LLM-based applications, optimizing workflows, 
-      improving customer interactions, and advancing manufacturing operations. The platform uses clients’ data,
-      whether in the form of text, images, or documents, to train advanced Msnlike GPT-4, Vicuna, Llama 2, 
-      or GPT-NeoX for developing contextually aware applications capable of performing diverse tasks. 
-      These applications contribute to informed decision-making, provide in-depth insights, 
-      and enhance productivity, all while maintaining stringent data privacy standards. 
-      https://www.leewayhertz.com/manufacturing-software-development/
+        LeewayHertz’s generative AI platform, ZBrain, stands as a pivotal solution for manufacturing enterprises 
+        aiming to confront challenges within their workflows, enhancing efficiency and fostering business growth.
+        ZBrain enables enterprises to develop tailored LLM-based applications, optimizing workflows, 
+        improving customer interactions, and advancing manufacturing operations. The platform uses clients’ data,
+        whether in the form of text, images, or documents, to train advanced Msnlike GPT-4, Vicuna, Llama 2, 
+        or GPT-NeoX for developing contextually aware applications capable of performing diverse tasks. 
+
+        These applications contribute to informed decision-making, provide in-depth insights, 
+        and enhance productivity, all while maintaining stringent data privacy standards. 
+        https://www.leewayhertz.com/manufacturing-software-development/
 
 ## Landscape
 
@@ -90,7 +91,7 @@ Lesson 4_Challenge
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
   
-    	As per Precedence Research, the global market for AI in manufacturing reached a value of
+      As per Precedence Research, the global market for AI in manufacturing reached a value of
       USD 3.8 billion in 2022. It is projected to attain approximately USD 68.36 billion by 2032,
       experiencing a remarkable compound annual growth rate (CAGR) of 33.5% from 2023 to 2032.
       https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
@@ -103,32 +104,63 @@ Lesson 4_Challenge
   
       o Trigma
   
-      o	Cognizant
+      o Cognizant
   
-      o	Shift Paradigm
+      o Shift Paradigm
   
-      o	Roghnu
+      o Roghnu
   
-      o	Suffescom Solutions, Inc.
+      o Suffescom Solutions, Inc.
   
-      o	Designli
+      o Designli
 
 ## Results
 
 * What has been the business impact of this company so far?
+  ![image](https://github.com/user-attachments/assets/33ad9ea5-37d7-4219-834f-ea3425f8f55c)
+  (https://www.google.com/search?q=Leewayhertz+2023+financials&oq=Leewayhertz+2023+financials&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTEwODczajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8)
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* What are some of the core metrics that companies in this field use to measure success?
+
+      Customer Acquisition Cost
+  
+      Customer Lifetime Value
+  
+      Customer Retention Rate
+  
+      Net Promoter Score
+
+* How is your company performing based on these metrics?
+  
+  LeewayHertz has a 5% growth in employee hires while other competeitors indicate a reduction in employee new hires.
 
 * How is your company performing relative to competitors in the same field?
+  
+  62% Net Promoter Score (NPS) and recently acquired by the Hackett Group, LLC
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer?
+
+  Some industry organizations will require an Installation Operation Qualification (IOQ) as well as a Performance Qualification (PQ).
+  Offering a vetted protocol to “test/challenge” the data and AI programming for accuracy and reliability. Resulting in a report on
+  findings for traceability.
 
 * Why do you think that offering this product or service would benefit the company?
 
+  The benefit of having a deliverable available for the customer when providing AI or Machine Learning (ML) solutions, the
+  protocol representing test/response challenge will assist in a debugging of the system in a systematic process. 
+
 * What technologies would this additional product or service utilize?
-*   AI is making possible much more precise manufacturing process design, as well as problem diagnosis and resolution when defects crop       up in the fabrication process, by using a digital twin. A digital twin is an exact virtual replica of the physical part, the machine      tool, or the part being made.
-*     https://www.google.com/search?          q=What+are+the+emerging+technologies+iof+AI+in+Manufacturing%3F&oq=What+are+the+emerging+technologies+iof+AI+in+Manufacturing%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTE3Mzg0ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+
+  The technologies the IOQ will use are Artificial Intelligence (AI) and Machine Learning (ML) to, first, verify the
+  robustness of the IOQ, and second, yielding a better assessment of the protocol results accuracy.
+
+  AI is making possible much more precise manufacturing process design, as well as problem diagnosis and resolution when
+  defects crop up in the fabrication process, by using a digital twin. A digital twin is an exact virtual replica of the
+  physical part, the machine tool, or the part being made.
+
+  https://www.google.com/search?q=What+are+the+emerging+technologies+iof+AI+in+Manufacturing%3F&oq=What+are+the+emerging+technologies+iof+AI+in+Manufacturing%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTE3Mzg0ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+  
 
 * Why are these technologies appropriate for your solution?
