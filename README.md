@@ -169,5 +169,8 @@ Lesson 4_Challenge
 
 ## References
 
-LeewayHertz, LLC 2024. "At LeewayHertz, We Continue to Innovate Even After Years of Proven Success”. LeewayHertz. https://www.leewayhertz.com/about-us/Links to an external site. [2024]
+LeewayHertz, LLC 2024. "At LeewayHertz, We Continue to Innovate Even After Years of Proven Success”. LeewayHertz. (https://www.leewayhertz.com/about-us/  Link to an external site. [2024])
  
+LeewayHertz, LLC 2024. "Custom Manufacturing Software Development Company”. LeewayHertz.  https://www.leewayhertz.com/manufacturing-software-development/   Links to an external site. [2024]
+
+LeewayHertz, LLC 2024. " AI in manufacturing: Use cases, solution, implementation and applications of AI agent”. LeewayHertz.  https://www.leewayhertz.com/manufacturing-software-development/   Links to an external site. [2024]
