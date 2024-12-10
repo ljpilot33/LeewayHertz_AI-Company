@@ -174,3 +174,11 @@ LeewayHertz, LLC 2024. "At LeewayHertz, We Continue to Innovate Even After Years
 LeewayHertz, LLC 2024. "Custom Manufacturing Software Development Company”. LeewayHertz.  https://www.leewayhertz.com/manufacturing-software-development/   Links to an external site. [2024]
 
 LeewayHertz, LLC 2024. " AI in manufacturing: Use cases, solution, implementation and applications of AI agent”. LeewayHertz.  https://www.leewayhertz.com/ai-use-cases-in-manufacturing/   Links to an external site. [2024]
+
+LeewayHertz, LLC 2024. " ZBrain AI Agents: Streamlining Enterprise Operations”. LeewayHertz.  https://zbrain.ai/agents/#insightpopup  Links to an external site. [2024]
+
+LeewayHertz, LLC 2024. " Custom Manufacturing Software Development Company”. LeewayHertz.  https://www.leewayhertz.com/manufacturing-software-development/  Links to an external site. [2024]
+
+LeewayHertz, LLC 2023. " Leewayhertz 2023”. Google Search. https://www.google.com/search?q=Leewayhertz+2023+financials&oq=Leewayhertz+2023+financials&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTEwODczajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8 Links to an external site. [2024]
+
+LeewayHertz, LLC 2024. " What are the emerging technologies iof AI in Manufacturing?”. Google Search. https://www.google.com/search?q=What+are+the+emerging+technologies+iof+AI+in+Manufacturing%3F&oq=What+are+the+emerging+technologies+iof+AI+in+Manufacturing%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTE3Mzg0ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8  Links to an external site. [2024]
