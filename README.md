@@ -169,5 +169,5 @@ Lesson 4_Challenge
 
 ## References
 
-Internet article "At LeewayHertz, We Continue to Innovate Even After Years of Proven Success"._https://www.leewayhertz.com/about-us/ to an external site. [2020, June 26]
+LeewayHertz, LLC 2024. "At LeewayHertz, We Continue to Innovate Even After Years of Proven Success”. LeewayHertz. https://www.leewayhertz.com/about-us/Links to an external site. [2024]
  
