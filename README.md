@@ -13,26 +13,26 @@ Lesson 4_Challenge
 
 * Who are the founders of the company?
 
-![image](https://github.com/user-attachments/assets/b49d16b3-26aa-49d2-9fd2-a027758fa9fe) Akash Taylar -- Chief Executive Officer
+  ![image](https://github.com/user-attachments/assets/b49d16b3-26aa-49d2-9fd2-a027758fa9fe) Akash Taylar -- Chief       Executive Officer
 
-Akash Takyar is the founder and CEO of LeewayHertz. With a proven track record of conceptualizing and architecting
-100+ user-centric and scalable solutions for startups and enterprises, he brings a deep understanding of both technical and user experience aspects.
+  Akash Takyar is the founder and CEO of LeewayHertz. With a proven track record of conceptualizing and architecting 100+ user-centric
+  and scalable solutions for startups and enterprises, he brings a deep understanding of both technical and user experience aspects.
 
-Akash’s ability to build enterprise-grade technology solutions has garnered the trust of over 30 Fortune 500 companies, including Siemens, 3M, P&G, and Hershey’s. Akash is an early adopter of new technology, a passionate technology enthusiast, and an investor in AI and IoT startups. https://www.leewayhertz.com/about-us/
+  Akash’s ability to build enterprise-grade technology solutions has garnered the trust of over 30 Fortune 500 companies, including Siemens, 3M, P&G, and Hershey’s. Akash is   an early adopter of new technology, a passionate technology enthusiast, and an investor in AI and IoT startups. https://www.leewayhertz.com/about-us/
 
 * How did the idea for the company (or project) come about?
 
-Issues stemming from inefficient manual processes, human errors, and a lack of real time data.
+  Issues stemming from inefficient manual processes, human errors, and a lack of real time data.
 
-The manufacturing industry has long faced various challenges, including process inefficiencies, production errors, 
-and costly machine maintenance.
+  The manufacturing industry has long faced various challenges, including process inefficiencies, production errors, 
+  and costly machine maintenance.
 
-These issues stem from inefficiencies in manual processes, human errors, and a lack of real-time insights, resulting 
-in escalated expenses, compromised quality, and missed opportunities. 
+  These issues stem from inefficiencies in manual processes, human errors, and a lack of real-time insights, resulting 
+  in escalated expenses, compromised quality, and missed opportunities. 
 
-One of the primary obstacles manufacturing plant faces is accurately detecting faults in the production process. 
-Traditional methods often rely on simplistic procedures that fail to identify and resolve production issues 
-effectively. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
+  One of the primary obstacles manufacturing plant faces is accurately detecting faults in the production process. 
+  Traditional methods often rely on simplistic procedures that fail to identify and resolve production issues 
+  effectively. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
 
 * How is the company funded?
 
@@ -58,18 +58,17 @@ effectively. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
 
 * Is there any information about the market size of this set of customers? 1.3% of the market is Seimens holdings.
 
-As per Precedence Research, the global market for AI in manufacturing reached a value of USD 3.8 billion in 2022.
-It is projected to attain approximately USD 68.36 billion by 2032, experiencing a remarkable compound annual 
-growth rate (CAGR) of 33.5% from 2023 to 2032. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
-  
+  As per Precedence Research, the global market for AI in manufacturing reached a value of USD 3.8 billion in 2022.
+  It is projected to attain approximately USD 68.36 billion by 2032, experiencing a remarkable compound annual 
+  growth rate (CAGR) of 33.5% from 2023 to 2032. https://www.leewayhertz.com/ai-use-cases-in-manufacturing/
+    
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
   *	ZBrain AI Development Platform
-  *	ZBrain AI agents are designed to automate specific tasks within enterprise processes using GenAI. By deploying        these agents, organizations can reduce manual workload and enhance operational efficiency across
-    departments, leading to streamlined workflows and improved productivity. https://zbrain.ai/agents/#insightpopup
+  *	ZBrain AI agents are designed to automate specific tasks within enterprise processes using GenAI. By deploying these agents, organizations can reduce manual                  workload and enhance operational efficiency across departments, leading to streamlined workflows and improved productivity. https://zbrain.ai/agents/#insightpopup
 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? 
 
 ### AI platform optimizes manufacturing processes
 LeewayHertz’s generative AI platform, ZBrain, stands as a pivotal solution for manufacturing enterprises aiming to confront challenges within their workflows, enhancing efficiency and fostering business growth. ZBrain enables enterprises to develop tailored LLM-based applications, optimizing workflows, improving customer interactions, and advancing manufacturing operations. The platform uses clients’ data, whether in the form of text, images, or documents, to train advanced LLMs like GPT-4, Vicuna, Llama 2, or GPT-NeoX for developing contextually aware applications capable of performing diverse tasks. These applications contribute to informed decision-making, provide in-depth insights, and enhance productivity, all while maintaining stringent data privacy standards. https://www.leewayhertz.com/manufacturing-software-development/
