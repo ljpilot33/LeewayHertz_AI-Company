@@ -164,3 +164,10 @@ Lesson 4_Challenge
   
 
 * Why are these technologies appropriate for your solution?
+
+  By harnessing AI’s capabilities, manufacturing companies can overcome hurdles such as fault detection, error reduction, and maintenance          optimization. AI’s capacity to learn from vast datasets can significantly enhance the precision and efficiency of production cycles,             diminishing the need for manual intervention in the manufacturing sector. Moreover, AI-powered analytics equip organizations with tools that     enable them to make informed decisions, optimize resource allocation, and enhance inventory management. As per Precedence Research, the global   market for AI in manufacturing reached a value of USD 3.8 billion in 2022. It is projected to attain approximately USD68.36 billion by 2032,     experiencing a remarkable compound annual growth rate (CAGR) of 33.5% from 2023 to 2032.
+
+## References
+
+Internet article "At LeewayHertz, We Continue to Innovate Even After Years of Proven Success"._https://www.leewayhertz.com/about-us/ to an external site. [2020, June 26]
+ 
